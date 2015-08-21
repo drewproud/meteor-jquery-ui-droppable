@@ -1,5 +1,5 @@
 Package.describe({
-  summary: "Enables dropping functionality for any element",
+  summary: "Wrapper for jQueryUI draggable and droppable",
   git: "https://github.com/drewproud/meteor-jquery-ui-droppable.git",
   version: "0.0.1",
   name: "drewproud:jquery-ui-droppable"
